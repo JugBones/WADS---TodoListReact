@@ -6,7 +6,7 @@ Hi there, I'm <a href="https://github.com/JugBones" target="_blank" rel="norefer
 
 ## 💻 This project repo include
 
-- JS code to build the react todo-list app []
+- JS folder for the code to build the react todo-list app [alextodo-app]
 - UI Visualization for the React app []
 
 ## 💼 Language & Tools :
