@@ -1,7 +1,7 @@
 # WADS---TodoListReact
 
 <h3 align="center">
-Hi there, I'm <a href="https://github.com/JugBones" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm <a href="https://github.com/JugBones" target="_blank" rel="noreferrer">Christopher Alexander Tjiandra</a> 👋
 </h3>
 
 ## 💻 This project repo include
