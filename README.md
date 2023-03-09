@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://github.com/JugBones" target="_blank" rel="norefer
 ## 💻 This project repo include
 
 - JS folder for the code to build the react todo-list app [alextodo-app]
-- UI Visualization for the React app []
+- UI Visualization for the React app [Alex TODO React app.png]
 
 ## 💼 Language & Tools :
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
